@@ -1,19 +1,21 @@
-# Quick Code Challenges
-The purpose of this repo is to provide practice with HTML/CSS portions of code challenges. The concept is to look at elements of modern websites isolated from the whole layout/page, to think about code challenges from a usability and accessibility perspective, and provide a fun challenge to solve. 
+# Mini Code Challenges
+The purpose of this repo is to provide practice with the HTML/CSS portion of front-end/full-stack code challenges. What we will do is to look at elements of modern websites isolated from the whole layout/page (like buttons or cards), to think about code challenges from a usability and accessibility perspective, and provide a fun challenge to solve. 
 
 
 ## Time Limits
-Each section has a time limit. Try to honor those times. Set your phone to go off after the time indicated and move on even if you did not complete that section. The idea is to get you started thinking about the process of practicing a code challenge, not to make an absolute perfect representation in the short time given.
+Each section has a time limit, so try to honor those times. The idea is to get you thinking about the process of practicing a code challenge, not to make an absolute perfect representation in the short time given.
 
 ## Code Challenge Rules
 ### Prepare/Plan - Spend 5 minutes here
 Planning for a code challenge is extremely important. This helps set you up for success. 
 1. Open the folder for the challenge you would like to attempt.
+    * [Button Challenge](/button-challenge/README.md)
 2. View the provided challenge readme and assets.
-3. Write down any questions you might have. (Very important)
+3. Write down any questions you might have. (Very important!)
 
 ## Coding time! 
 ### Spend 10 minutes here
+Use an online code editor site like [CodePen](https://codepen.io/pen/) to quickly get started without having to setup folders/files. 
 
 ## Reflection
 ### No time limit
