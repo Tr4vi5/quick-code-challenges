@@ -6,7 +6,7 @@ The purpose of this repo is to provide practice with the HTML/CSS portion of fro
 Each section has a time limit, try to honor those times.
 
 ## Code Challenge Rules
-### Prepare/Plan - Spend 5 minutes here
+### Prepare/Plan - 5 minutes
 Planning for a code challenge is extremely important. This helps set you up for success. 
 1. Open the folder for the challenge you would like to attempt.
     * [Button Challenge](/button-challenge/README.md)
@@ -14,7 +14,7 @@ Planning for a code challenge is extremely important. This helps set you up for 
 3. Write down any questions you might have. (Very important!)
 
 ## Coding time! 
-### Spend 10 minutes here
+### 10 minutes
 Use an online code editor site like [CodePen](https://codepen.io/pen/) to quickly get started without having to setup folders/files. 
 
 ## Reflection

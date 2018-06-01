@@ -7,8 +7,11 @@ Use the HTML provided below to begin the challenge.
 ```
 <button>Login/Register</button>
 ```
+<<<<<<< HEAD
 
 When styling this button think about the following:
 - Borders
 - Shadows
 - Subtle transitions/animations for states
+=======
+>>>>>>> dev
