@@ -10,6 +10,7 @@ Each section has a time limit, try to honor those times.
 Planning for a code challenge is extremely important. This helps set you up for success. 
 1. Open the folder for the challenge you would like to attempt.
     * [Button Challenge](/button-challenge/README.md)
+    * [Card Challenge](/card-challenge/README.md)
 2. View the provided challenge readme and assets.
 3. Write down any questions you might have. (Very important!)
 
