@@ -1,12 +1,6 @@
 # Input Challenge
 
-This challenge has an input field and a label. Input fields have several states: normal, focus, and disabled. Use the designs provided in the [assets directory](/input-challenge/assets).
+Use the CodePen below and the [assets included](assets) in this repo to complete the styling of the `<input>` field. 
 
-Use the HTML provided below to begin the challenge. 
+[Fork this CodePen Link!](https://codepen.io/anon/pen/mGRKdg)
 
-```
-<fieldset>
-  <label>Email</label>
-  <input type="email" placeholder="Enter Email Address">
-</fieldset>
-```
